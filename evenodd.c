@@ -13,7 +13,9 @@ else
 {
 printf("Odd");
 }
+}
 else
+{
   printf("invalid");
 }
 }
